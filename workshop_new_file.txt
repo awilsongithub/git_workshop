@@ -1,8 +1,10 @@
 1. branch
     a. git checkout -b new_branch_name (creates and switches/checks out).
     b. git push origin new_branch_name (pushes to that branch. don't push to master, it's safer).
-    c. < 3 people working per branch to minim. conflicts & breakage and reverts impacting too many other folks code. 
+    c. < 3 people working per branch to minim. conflicts & breakage and reverts impacting too many other folks code.
     d.
 2. merge
+    a. using a pull request from within feature branch
+    b. now master branch has things on github but NOT Locally so i need to pull locally from master.
 3. clone
 4. checkout
