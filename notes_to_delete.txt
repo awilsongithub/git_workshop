@@ -2,6 +2,7 @@
 
 grep print lines matching pattern
 log show c logs
+ssh added remote to this local repo!!!!!!!!!!!!!!!!
 
 grow, mark and tweak your common history
    branch     List, create, or delete branches
