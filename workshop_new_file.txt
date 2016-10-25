@@ -4,7 +4,7 @@
     c. < 3 people working per branch to minim. conflicts & breakage and reverts impacting too many other folks code.
     d.
 2. merge
-    a. with pull request from within feature branch on github.com
-
+    a. using a pull request from within feature branch
+    b. now master branch has things on github but NOT Locally so i need to pull locally from master.
 3. clone
 4. checkout
